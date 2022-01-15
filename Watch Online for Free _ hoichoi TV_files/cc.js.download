@@ -1,0 +1,1 @@
+if(console){var cookiedomainwarning='Error: The domain WWW.HOICHOI.TV is not authorized to show the cookie banner for domain group ID 520f5356-d525-4821-9ed5-eea255414ac4. Please add it to the domain group in the Cookiebot Manager to authorize the domain.';if(typeof console.warn === 'function'){console.warn(cookiedomainwarning)}else{console.log(cookiedomainwarning)}};
